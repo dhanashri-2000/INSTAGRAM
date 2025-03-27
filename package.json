@@ -1,0 +1,19 @@
+{
+  "name": "instagram-clone",
+  "version": "1.0.0",
+  "description": "A backend project instagram clone.",
+  "keywords": [
+    "node.js",
+    "express.js",
+    "E-commerence",
+    "instagram",
+    "clone"
+  ],
+  "license": "ISC",
+  "author": "instagram admin",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
